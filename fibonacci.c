@@ -15,3 +15,5 @@ for(k=2,k<=n;k++)
   j=sum;
 }
 }
+
+//consider no.of terms 6
