@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int main()
+{
 int n,i=0;j=0,k=0,sum=0;
 printf("enter no.f terms :");
 scanf("%d",&n);
@@ -10,4 +12,5 @@ for(k=2,k<=n;k++)
   printf("%d",sum);
   i=j;
   j=sum;
+}
 }
