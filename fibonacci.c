@@ -7,6 +7,7 @@ printf("%d %d ",i,j);
 for(k=2,k<=n;k++)
 {
   sum=i+j;
+  printf("%d",sum);
   i=j;
   j=sum;
 }
